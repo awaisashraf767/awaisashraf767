@@ -49,6 +49,3 @@ I'm a passionate **Full Stack Developer** from Pakistan, focused on building sca
 - LinkedIn: https://linkedin.com/in/awais-ashraf-26841b230
 - Email: chaudharyawais767@gmail.com
 
----
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
